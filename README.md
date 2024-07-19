@@ -1,2 +1,2 @@
-# EDA-for-Medical-Costs
+# Medical Costs EDA
 Exploratory Data Analysis for Medical Cost Dataset
